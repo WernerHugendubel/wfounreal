@@ -1,4 +1,4 @@
-# wfounreal
+![grafik](https://github.com/WernerHugendubel/wfounreal/assets/6709311/1881d7fb-cb66-49df-b675-073c35c92f89)# wfounreal
 Entrepeneurshipwoche 23.01.24-26.01.24
 
 Die Klasse 4A WI hat die Idee, in der Schule ein IOT-Projekt zu machen, mit dem alle Klassenräume mit einem Arduino NANO ESP32 und mehreren Sensoren überwacht werden können:
@@ -31,7 +31,8 @@ Eine weitere Gruppe testet den Code in Arduino, welcher Daten eines Sensors an d
 Mit einem Schüler wurde das Protokoll I2S für die Audioverarbeitung mit dem MAX98573A (Verstärker für 4-8 Ohm - Boxen bis 3 Watt) getestet. 
 
 3. Tag
-Prof. Lochmann kommt in die Schule um den Schülern zur Seite zu stehen. Mit einem Schüler verwendet er das Programm KICAD um ein Platinenlayout für die Elektronik zu entwerfen.
+Prof. Lochmann kommt in die Schule um den Schülern zur Seite zu stehen. Mit einem Schüler verwendet er das Programm KICAD um ein Platinenlayout für die Elektronik zu entwerfen mit der Open Source Software KiCAD.
+
 Die Elektronik wird getestet, es sind drei Prototypen vorhanden.
 Ein weiterer Schüler entwirft/sucht ein Gehäuse für die Elektronik.
 Der endgültige Prototyp funktioniert, die Daten werden an die Datenbank übermittelt. Prof. Lochmann arbeitet mit zwei Schülern an der Erstelltung von SQL-Befehlen für die Analyse der Datenbank.
